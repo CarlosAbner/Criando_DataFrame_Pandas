@@ -1,3 +1,6 @@
+#instalando pandas no terminal VsCode
+pip intall pandas
+
 #importando bibliotecas
 import pandas as pd
 # import numpy as np
